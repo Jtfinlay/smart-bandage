@@ -2,4 +2,4 @@ version: 1
 eagle:
   drc:
     - file: hardware/bandage_module/Bandage FPC.brd
-      dru: default
+      dru: oshpark-2layer
