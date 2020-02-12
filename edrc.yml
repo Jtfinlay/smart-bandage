@@ -1,7 +1,5 @@
 version: 1
 eagle:
   drc:
-    - file: "hardware/comms_module/Communications Board - Top.brd"
-      dru: "oshpark-4layer"
-    - file: "hardware/comms_module/Communications Board Fake - Bottom.brd"
-      dru: "oshpark-2layer"
+    - file: hardware/bandage_module/Bandage FPC.brd
+      dru: default
